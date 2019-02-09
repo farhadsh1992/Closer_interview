@@ -1,0 +1,15 @@
+Name_column,describe_column
+Date received,"The date the CFPB received the complaint. For example, “05/25/2013.”"
+Product,"The type of product the consumer identified in the complaint. For example, “Checking or savings account” or “Student loan.”"
+Sub-product,"The type of sub-product the consumer identified in the complaint. For example, “Checking account” or “Private student loan.”"
+Issue,"The issue the consumer identified in the complaint. For example, “Managing an account” or “Struggling to repay your loan.”"
+Sub-issue,"The sub-issue the consumer identified in the complaint. For example, “Deposits and withdrawals” or “Problem lowering your monthly payments.”"
+Company public response,"The company’s optional, public-facing response to a consumer’s complaint. Companies can choose to select a response from a pre-set list of options that will be posted on the public database. For example, “Company believes complaint is the result of an isolated error.”"
+Company,"The complaint is about this company. For example, “ABC Bank.”"
+State,The state of the mailing address provided by the consumer.
+ZIP code,"The mailing ZIP code provided by the consumer. This field may: i) include the first five digits of a ZIP code; ii) include the first three digits of a ZIP code (if the consumer consented to publication of their complaint narrative); or iii) be blank (if ZIP codes have been submitted with non-numeric values, if there are less than 20,000 people in a given ZIP code, or if the complaint has an address outside of the United States)."
+Submitted via,"How the complaint was submitted to the CFPB. For example, “Web” or “Phone.”"
+Date sent to company,The date the CFPB sent the complaint to the company.
+Company public response,"This is how the company responded. For example, “Closed with explanation.”"
+Company response to consume,Whether the consumer disputed the company’s response.
+Complaint ID,The unique identification number for a complaint.
