@@ -16,7 +16,7 @@ A short report of project and reasult in [powerpint file](Closer_interview.pptx)
 
 ## Api that are used for this project:
 
-"""python
+```python
 
 from nltk import word_tokenize  # for tokenize
 import seaborn as sns  # for visualation
@@ -32,4 +32,4 @@ import gensim
 
 # My library: (for pre-prcessing  for text analysis)
 from package.TextEditor import Remove_repetitive_words, Remove_stop_words, List_cleaner 
-"""
+```
