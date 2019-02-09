@@ -27,7 +27,8 @@ Click here [for similar_Consumer](similar_Consumer(Consumer_complaint_narrative)
 - find the best num_topics and n_grams model by draw chorsnce plot.
 - Choose 1_grams and 2_grams, and num_topics=3 (not_good, bad, so_bad)
 
-A short report of project and reasult in [powerpint file](Closer_interview.pptx) **You should dmwoload it and see your computer**
+
+<font color='red'>A short report of project and reasult in [powerpint file](Closer_interview.pptx) **You should dmwoload it and see your computer**</font>
 
 
 ## Apis are used for this project:
