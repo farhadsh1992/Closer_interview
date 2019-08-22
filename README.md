@@ -1,4 +1,4 @@
-# interview 
+
 The challenge comprises an NLP project.
 
 ## Use topics model with num_topics = 11 for possible root cause
